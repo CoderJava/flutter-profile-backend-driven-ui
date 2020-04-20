@@ -1,0 +1,343 @@
+{
+  "type": "Column",
+  "children": [
+    {
+      "type": "Container",
+      "color": "#FFB86C6A",
+      "padding": "16.0,8.0,16.0,8.0",
+      "child": {
+        "type": "Row",
+        "children": [
+          {
+            "type": "ClipRRect",
+            "borderRadius": "99.0,99.0,99.0,99.0",
+            "child": {
+              "type": "NetworkImage",
+              "src": "http://api.bengkelrobot.net:8001/assets/images/ryan_si_john.jpeg",
+              "boxFit": "cover",
+              "width": 42.01,
+              "height": 42.01
+            }
+          },
+          {
+            "type": "Container",
+            "width": 12.01
+          },
+          {
+            "type": "Expanded",
+            "child": {
+              "type": "Wrap",
+              "direction": "vertical",
+              "children": [
+                {
+                  "type": "Text",
+                  "data": "Ryan Al Farisi",
+                  "style": {
+                    "color": "#FFFFFFFF",
+                    "fontWeight": "w500",
+                    "fontSize": 20.01
+                  },
+                  "maxLines": 1,
+                  "overflow": "ellipsis"
+                },
+                {
+                  "type": "Text",
+                  "data": "Online",
+                  "style": {
+                    "color": "#FFEEEEEE",
+                    "fontSize": 16.01
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "Icon",
+            "data": "more_vert",
+            "color": "#FFFFFFFF"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Expanded",
+      "child": {
+        "type": "ListView",
+        "padding": "0.0,0.0,0.0,0.0",
+        "children": [
+          {
+            "type": "Padding",
+            "padding": "16.0,16.0,16.0,0.0",
+            "child": {
+              "type": "Column",
+              "crossAxisAlignment": "start",
+              "children": [
+                {
+                  "type": "Text",
+                  "data": "Account",
+                  "style": {
+                    "color": "#FFB86C6A",
+                    "fontWeight": "w500",
+                    "fontSize": 16.01
+                  }
+                },
+                {
+                  "type": "Container",
+                  "height": 8.01
+                },
+                {
+                  "type": "Text",
+                  "data": "+6285312345678"
+                },
+                {
+                  "type": "Text",
+                  "data": "Tap to change phone number",
+                  "style": {
+                    "color": "#FF9E9E9E",
+                    "fontSize": 12.01
+                  }
+                },
+                {
+                  "type": "Container",
+                  "height": 8.01
+                },
+                {
+                  "type": "Container",
+                  "color": "#FFDADDDA",
+                  "height": 1.01
+                },
+                {
+                  "type": "Container",
+                  "height": 8.01
+                },
+                {
+                  "type": "Text",
+                  "data": "@ryan.farisi"
+                },
+                {
+                  "type": "Text",
+                  "data": "Username",
+                  "style": {
+                    "color": "#FF9E9E9E",
+                    "fontSize": 12.01
+                  }
+                },
+                {
+                  "type": "Container",
+                  "height": 8.01
+                },
+                {
+                  "type": "Container",
+                  "color": "#FFDADDDA",
+                  "height": 1.01
+                },
+                {
+                  "type": "Container",
+                  "height": 8.01
+                },
+                {
+                  "type": "Text",
+                  "data": "Bio"
+                },
+                {
+                  "type": "Text",
+                  "data": "Add a few words about yourself",
+                  "style": {
+                    "color": "#FF9E9E9E",
+                    "fontSize": 12.01
+                  }
+                },
+                {
+                  "type": "Container",
+                  "height": 8.01
+                }
+              ]
+            }
+          },
+          {
+            "type": "Container",
+            "height": 8.01,
+            "color": "#FFDADDDA"
+          },
+          {
+            "type": "Padding",
+            "padding": "16.0,16.0,16.0,0.0",
+            "child": {
+              "type": "Column",
+              "crossAxisAlignment": "start",
+              "children": [
+                {
+                  "type": "Text",
+                  "data": "Settings",
+                  "style": {
+                    "color": "#FFB86C6A",
+                    "fontWeight": "w500",
+                    "fontSize": 16.01
+                  }
+                },
+                {
+                  "type": "Container",
+                  "height": 8.01
+                },
+                {
+                  "type": "Row",
+                  "children": [
+                    {
+                      "type": "Icon",
+                      "data": "notifications_none",
+                      "color": "#FF9E9E9E"
+                    },
+                    {
+                      "type": "Container",
+                      "width": 12.01
+                    },
+                    {
+                      "type": "Text",
+                      "data": "Notifications and Sounds"
+                    }
+                  ]
+                },
+                {
+                  "type": "Container",
+                  "height": 16.01
+                },
+                {
+                  "type": "Row",
+                  "children": [
+                    {
+                      "type": "Icon",
+                      "data": "lock_outline",
+                      "color": "#FF9E9E9E"
+                    },
+                    {
+                      "type": "Container",
+                      "width": 12.01
+                    },
+                    {
+                      "type": "Text",
+                      "data": "Privacy and Security"
+                    }
+                  ]
+                },
+                {
+                  "type": "Container",
+                  "height": 16.01
+                },
+                {
+                  "type": "Row",
+                  "children": [
+                    {
+                      "type": "Icon",
+                      "data": "pie_chart_outlined",
+                      "color": "#FF9E9E9E"
+                    },
+                    {
+                      "type": "Container",
+                      "width": 12.01
+                    },
+                    {
+                      "type": "Text",
+                      "data": "Data and Storage"
+                    }
+                  ]
+                },
+                {
+                  "type": "Container",
+                  "height": 16.01
+                },
+                {
+                  "type": "Row",
+                  "children": [
+                    {
+                      "type": "Icon",
+                      "data": "chat_bubble_outline",
+                      "color": "#FF9E9E9E"
+                    },
+                    {
+                      "type": "Container",
+                      "width": 12.01
+                    },
+                    {
+                      "type": "Text",
+                      "data": "Chat Settings"
+                    }
+                  ]
+                },
+                {
+                  "type": "Container",
+                  "height": 16.01
+                },
+                {
+                  "type": "Row",
+                  "children": [
+                    {
+                      "type": "Icon",
+                      "data": "devices",
+                      "color": "#FF9E9E9E"
+                    },
+                    {
+                      "type": "Container",
+                      "width": 12.01
+                    },
+                    {
+                      "type": "Text",
+                      "data": "Devices"
+                    }
+                  ]
+                },
+                {
+                  "type": "Container",
+                  "height": 16.01
+                },
+                {
+                  "type": "Row",
+                  "children": [
+                    {
+                      "type": "Icon",
+                      "data": "language",
+                      "color": "#FF9E9E9E"
+                    },
+                    {
+                      "type": "Container",
+                      "width": 12.01
+                    },
+                    {
+                      "type": "Text",
+                      "data": "Language"
+                    }
+                  ]
+                },
+                {
+                  "type": "Container",
+                  "height": 16.01
+                },
+                {
+                  "type": "Row",
+                  "children": [
+                    {
+                      "type": "Icon",
+                      "data": "help_outline",
+                      "color": "#FF9E9E9E"
+                    },
+                    {
+                      "type": "Container",
+                      "width": 12.01
+                    },
+                    {
+                      "type": "Text",
+                      "data": "Help"
+                    }
+                  ]
+                },
+                {
+                  "type": "Container",
+                  "height": 16.01
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
