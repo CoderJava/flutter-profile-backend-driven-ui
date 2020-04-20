@@ -1,6 +1,5 @@
 # Flutter Profile
-Demonstrate Backend Driven UI with Flutter.
 
-![Screenshot](https://gfycat.com/chubbydesertedibizanhound "Screenshot")
-
-<div style='position:relative; padding-bottom:calc(184.92% + 44px)'><iframe src='https://gfycat.com/ifr/ChubbyDesertedIbizanhound' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+Demonstrate backend driven UI with Flutter  
+![Screenshot 1](https://raw.githubusercontent.com/CoderJava/flutter-profile-backend-driven-ui/master/screenshots/screenshot_1.png
+"Screenshot 1")
