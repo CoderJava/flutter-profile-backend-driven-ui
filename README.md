@@ -1,16 +1,6 @@
-# flutterprofile
+# Flutter Profile
+Demonstrate Backend Driven UI with Flutter.
 
-Demonstrate backend driven UI with Flutter
+![Screenshot](https://gfycat.com/chubbydesertedibizanhound "Screenshot")
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style='position:relative; padding-bottom:calc(184.92% + 44px)'><iframe src='https://gfycat.com/ifr/ChubbyDesertedIbizanhound' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
